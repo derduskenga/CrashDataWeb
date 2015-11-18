@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+#users {
+	width:400px;
+	height:400px;
+	float:left;
+	background-color:#CCC;
+	margin:10px;
+	padding:10px;
+	border:1px thin;
+	border-radius:2px;
+	 -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-o-border-radius:2px;  
+}
+
+#new_user_header {
+	width:370px;
+	height:30px;
+	float:left;
+	background-color:#D8D8D8;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+	padding:2px;
+	border:1px thin;
+	border-radius:2px;
+	 -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-o-border-radius:2px;  
+}
+
+#new_user {
+	width:370px;
+	height:auto;
+	float:left;
+	background-color:#D8D8D8;
+	margin:10px;
+	padding:10px;
+	border:1px thin;
+	border-radius:2px;
+	 -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-o-border-radius:2px; 
+}
+
+.new_user_input{
+	height:25px;
+	font-size:18px;
+	width:90%;
+	margin-bottom:10px;
+}
+
+#label_texts{
+	font-size:18px;
+	color:#151515;
+}
+
+#label_user{
+	font-size:18px;
+	color:#309;
+}
+
+#submit {
+	height:30px;
+	width:80px;
+	color:#309;
+	font-size:16px;
+}
+
+#cancel{
+	height:30px;
+	width:80px;
+	color:#309;
+	font-size:16px;
+}
+
+#restrict {
+	color:#F00;
+	font-size:26px;
+	margin:0 auto;
+	padding:20px;
+	width:150px;
+	height:auto;
+}

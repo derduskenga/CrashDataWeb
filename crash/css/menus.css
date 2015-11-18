@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+#buttons {
+	width: 700px;
+	float:left;
+	height: 32px;
+	background-color:#666;
+	text-align:center;
+		
+	border:1px solid;
+}
+
+#buttons ul {
+    padding-left: 0px;
+    margin: 1px;
+}
+
+#buttons li {
+	display:inline;
+}
+
+#buttons a {
+	font-family: tahoma, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight:normal;
+	display: block;
+	float:left;
+	width: 110px;
+	height: 30px;
+	text-decoration: none;
+	color: #FF0;
+	padding-top: 0px;
+	padding-left: 0px;
+	margin-left: 0px;
+	text-align:center;
+}
+
+#buttons a:hover {
+	color:#309;;
+}
+
+#footer_menus ul {
+    padding-left: 0px;
+    margin: 1px;
+}
+
+#footer_menus li {
+	display: inline;
+}
+
+#footer_menus a {
+	font-family: tahoma, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:normal;
+	display: block;
+	width: 120px;
+	height: 24px;
+	text-decoration: none;
+	color:#666;
+	padding-left: 0px;
+	margin-left: 0px;
+	text-align:left;
+}
+
+#footer_menus a:hover {
+	color:#F00;
+}
+
+ #overlay {
+    background-image:url(/media/img/overlay/transparent.png);
+    color:#efefef;
+    height:450px;
+  }
+  /* container for external content. uses vertical scrollbar, if needed */
+  div.contentWrap {
+    height:441px;
+    overflow-y:auto;
+  }

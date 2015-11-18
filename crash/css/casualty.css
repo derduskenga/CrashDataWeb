@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cas_header{
+	width:370px;
+	height:30px;
+	text-align:center;
+	background-color:#999;
+	margin:0 auto;
+	padding:10px;
+	border:1px thin;
+	border-radius:2px;
+	 -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-o-border-radius:2px; 
+}
+
+#cas_info{
+	width:370px;
+	height:auto;
+	margin:0 auto;
+	background-color:#D8D8D8;
+	margin-top:10px;
+	padding:10px;
+	border:1px thin;
+	border-radius:2px;
+	 -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-o-border-radius:2px; 
+}
+
+#cas_upload{
+	width:370px;
+	height:auto;
+	margin:0 auto;
+	background-color:#D8D8D8;
+	margin-top:10px;
+	padding:10px;
+	border:1px thin;
+	border-radius:2px;
+	 -moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	-o-border-radius:2px;
+}
+
+#label_casualty{
+	font-size:20px;
+	color:#309;
+}
+
+#search{
+	
+
+}
